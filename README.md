@@ -6,7 +6,7 @@ The preview of our MIMF dataset is as follows.
 
 ---
 
-![preview](assets/overview.png)
+![preview](MIMF.png)
  
 ---
 
