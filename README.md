@@ -1,4 +1,4 @@
-# TSANet
+# [TIP 2025] TSANet:  Text-Guided Semantic Alignment Network with Spatial-Frequency Interaction for Infrared-Visible Image Fusion under Extreme Illumination
 
 ### Preview
 
