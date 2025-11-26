@@ -11,8 +11,9 @@ The preview of our MIMF dataset is as follows.
 ---
 
 ### Dataset Download
-- [*[Google Drive]*](https://drive.google.com/drive/folders/1dZlpjiYUd3JN2fzDgoyYfceOmVXwb70w?usp=sharing)
-- [*[Baidu Yun]*](https://pan.baidu.com/s/1-jOxGiOW0kNoi4dns6dDIg?pwd=ubp8)提取码: ubp8
+Note: The current release of the MIMF dataset only includes the test subset. If you require the training subset for your research or development, please feel free to contact me.
+- [*[Google Drive]*](https://drive.google.com/drive/folders/1TXYByOXv3HvxEJh_WFIpNwogw0rJh2II?usp=sharing)
+- [*[Baidu Yun]*](https://pan.baidu.com/s/1ywK6s74XNGhwZR4ENzD1mQ?pwd=uq46)提取码: uq46
 
-### Code
+### Codeimage
 Code will be released soon.
