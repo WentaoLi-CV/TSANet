@@ -16,4 +16,4 @@ Note: The current release of the MIMF dataset only includes the test subset. If 
 - [*[Baidu Yun]*](https://pan.baidu.com/s/1ywK6s74XNGhwZR4ENzD1mQ?pwd=uq46) 提取码: uq46
 
 ### Code
-Code will be released soon.
+The code will be released by February 17, 2026.
