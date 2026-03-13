@@ -21,6 +21,8 @@ pip install -r requirements.txt
 
 ## 2. Prepare Your Dataset
 
+![Framework](assert/MIMF.png)
+
 Download MIMF Dataset
 - [*[Google Drive]*](https://drive.google.com/drive/folders/1TXYByOXv3HvxEJh_WFIpNwogw0rJh2II?usp=sharing)
 - [*[Baidu Yun]*](https://pan.baidu.com/s/1ywK6s74XNGhwZR4ENzD1mQ?pwd=uq46) 提取码: uq46
