@@ -53,7 +53,7 @@ You can also refer to [TNO](https://figshare.com/articles/dataset/TNO_Image_Fusi
 ## 4. Test
 
 ```shell
-   CUDA_VISIBLE_DEVICES=1 python test.py --weights_path /path/to/your/checkpoint --save_path path/to/your/result
+CUDA_VISIBLE_DEVICES=1 python test.py --weights_path /path/to/your/checkpoint --save_path path/to/your/result
 ```
 
 ## 5. Training
