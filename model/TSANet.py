@@ -4,7 +4,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from utils.loss import fusion_prompt_loss
-from model.sfi_modal import ImageTextFusSam
+from model.sa_modal import ImageTextFusSam
 from model.fus_model import SFINet
 from model.transformer import TransformerBlock, Downsample, Upsample
 
@@ -356,3 +356,4 @@ class MultiModel(nn.Module):
             return (total_loss, loss_ssim, loss_max, loss_color, loss_text, loss_consistency), fus_img, visual_dict
 
         return (total_loss, loss_ssim, loss_max, loss_color, loss_text, loss_consistency), fus_img
+
