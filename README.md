@@ -48,7 +48,7 @@ You can also refer to [TNO](https://figshare.com/articles/dataset/TNO_Image_Fusi
 ## 3. Pretrained Weights
 
 - [*[Google Drive]*](https://drive.google.com/drive/folders/1USpc8A5Rn_GggSdrRoEF1BuQRBLpykHC?usp=sharing)
-- [*[Baidu Yun]*](https://pan.baidu.com/s/1Ng4uhyo2dOMc1ysVe6SMAA?pwd=ap8e) 提取码: ap8e
+- [*[Baidu Yun]*](https://pan.baidu.com/s/1pv0x6xqXk1uf7-XOpzy7uQ?pwd=dmh7) 提取码: dmh7
 
 ## 4. Test
 
