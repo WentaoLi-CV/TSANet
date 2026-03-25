@@ -27,7 +27,7 @@ Download MIMF Dataset
 - [*[Google Drive]*](https://drive.google.com/drive/folders/1TXYByOXv3HvxEJh_WFIpNwogw0rJh2II?usp=sharing)
 - [*[Baidu Yun]*](https://pan.baidu.com/s/1ywK6s74XNGhwZR4ENzD1mQ?pwd=uq46) 提取码: uq46
 
-Note: The current release of the MIMF dataset only includes the test subset. If you require the training subset for your research or development, please feel free to contact me.
+Note: The current release of the MIMF dataset only includes the test subset. If you require the training subset for your research or development, please feel free to contact me (18813740026@163.com).
 
 You can also refer to [TNO](https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029) / [FMB](https://github.com/JinyuanLiu-CV/SegMiF) to prepare your data. You should list your dataset as followed rule:
 ```bash
