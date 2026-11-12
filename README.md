@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ![Framework](assert/MIMF.png)
 
 Download MIMF Dataset
-- [*[Google Drive]*](https://drive.google.com/drive/folders/1TXYByOXv3HvxEJh_WFIpNwogw0rJh2II?usp=sharing)
+- [*[Google Drive]*](https://drive.google.com/drive/folders/1dZlpjiYUd3JN2fzDgoyYfceOmVXwb70w?usp=sharing)
 - [*[Baidu Yun]*](https://pan.baidu.com/s/1dqmnr-Bz1FQhfxo4nWYcPA) 提取码: mqg4
 
 You can also refer to [TNO](https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029) / [FMB](https://github.com/JinyuanLiu-CV/SegMiF) to prepare your data. You should list your dataset as followed rule:
